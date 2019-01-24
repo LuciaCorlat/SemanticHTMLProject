@@ -1,2 +1,0 @@
-# SemanticHTMLProject
-Created with CodeSandbox
